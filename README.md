@@ -100,7 +100,7 @@ SERIAL NUMBER	COMPONENT TYPE	VALUE
 ➢We can use this blind control system for more than one window.
    
 **CONCLUSION**
-➢this project introduces an automatic room light intensity control system based on a window blind mechanism. It detects the intensity of sunlight using an LDR (Light Dependent Resistor) and adjusts the window blinds to open or close accordingly. The system effectively utilizes sunlight to regulate indoor lighting.
+➢This project introduces an automatic room light intensity control system based on a window blind mechanism. It detects the intensity of sunlight using an LDR (Light Dependent Resistor) and adjusts the window blinds to open or close accordingly. The system effectively utilizes sunlight to regulate indoor lighting.
 In conclusion, the window operates in direct proportion to the sunlight intensity, ensuring efficient functionality. The results have been highly satisfactory, demonstrating that the system works perfectly as a window blind control solution.
 
 **APPLICATION**
