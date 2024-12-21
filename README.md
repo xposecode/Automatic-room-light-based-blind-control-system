@@ -23,7 +23,9 @@ Circuit Diagram of Automatic Room Light Intensity Control system -->
 
 ➢ The aim of this project is to design sliding windows equipped with a blind control system that adjusts based on the intensity of sunlight. 
 
+
 ❖ By providing the right amount of light. 
+
 ❖ By providing that light when it is needed. 
  
 ➢ The system operates by adjusting the window blinds based on the intensity of sunlight. When sunlight is present, the blinds open proportionally to the light's intensity. This functionality is achieved using an LDR (Light Dependent Resistor), which automates the process. The LDR detects sunlight and controls the window mechanism, opening or closing the blinds accordingly.
