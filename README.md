@@ -2,12 +2,7 @@
 
   **Introduction:**
 
-❖ It is very important to conserve electricity and utilize the natural soruce of energy as 
-electricity is a limited resource of energy. The project describes a way to conserve 
-electricity by not using light sources that works on electricity but to use sunlight as a 
-prominent light source.It will be helpful to generate the energy and it is also eco-friendly. 
-Most of the energy will be conserve due to this intiative.
-
+❖ Electricity is a limited and valuable resource, making it crucial to conserve energy and utilize natural sources like sunlight. This project presents an innovative approach to energy conservation by minimizing the use of electrically powered light sources and leveraging sunlight as a primary source of illumination. By adopting this eco-friendly initiative, we can not only reduce our reliance on electricity but also promote sustainable energy practices. This approach contributes significantly to energy conservation and supports environmental sustainability.
 
 **Block Diagram**
 
@@ -24,19 +19,16 @@ System -->
 Circuit Diagram of Automatic Room Light Intensity Control system -->
 
 
-**Principle Behind Mosquito Repellent Circuit:**
+**Automatic-room-light-based-blind-control-system:**
 
-➢ The aim of the project is to design such sliding windows using blind control system. It 
-will be using the intensity of the sunlight. ❖ By providing the right amount of light. 
+➢ The aim of this project is to design sliding windows equipped with a blind control system that adjusts based on the intensity of sunlight. 
+
+❖ By providing the right amount of light. 
 ❖ By providing that light when it is needed. 
  
-➢ So, whenever there is sunlight outside it will be opening according to it. So,we 
-can say that intensity of light coming from the sun is proportional to opening of 
-window. We have used LDR to automate the house. LDR used to control the 
-window as open/close when sun lights falls on to the LDR. The basic concept of 
-our automated system is that the position of the blinds is dependent on the 
-intensity of light. Here, we have used Arduino.
+➢ The system operates by adjusting the window blinds based on the intensity of sunlight. When sunlight is present, the blinds open proportionally to the light's intensity. This functionality is achieved using an LDR (Light Dependent Resistor), which automates the process. The LDR detects sunlight and controls the window mechanism, opening or closing the blinds accordingly.
 
+➢ The core concept of this automated system is that the position of the blinds is directly dependent on the intensity of light. To implement this, we have utilized an Arduino microcontroller, which ensures seamless and precise control of the system.
 
 **COMPONENT DESCRIPTION**
 
@@ -108,7 +100,8 @@ SERIAL NUMBER	COMPONENT TYPE	VALUE
 ➢We can use this blind control system for more than one window.
    
 **CONCLUSION**
-➢This project presents an Automatic Room light intensity based on window blind control system which can detect the intensity of sunlight and to control the window as open/close when sun lights falls on to the LDR. I have concluded that the window opens according to the sunlight intensity. The results are perfectly upto the mark , it works as window blind control system.
+➢this project introduces an automatic room light intensity control system based on a window blind mechanism. It detects the intensity of sunlight using an LDR (Light Dependent Resistor) and adjusts the window blinds to open or close accordingly. The system effectively utilizes sunlight to regulate indoor lighting.
+In conclusion, the window operates in direct proportion to the sunlight intensity, ensuring efficient functionality. The results have been highly satisfactory, demonstrating that the system works perfectly as a window blind control solution.
 
 **APPLICATION**
 
@@ -118,5 +111,4 @@ SERIAL NUMBER	COMPONENT TYPE	VALUE
 **Simulation Video**
 
 https://mega.nz/file/T4smHJRQ#J_MDs2GGasbuUQXTmu-RWWFr6LvIwBqKp3p5TzVEbEU
-
 
